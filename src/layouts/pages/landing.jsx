@@ -14,7 +14,7 @@ import faqs from "../../data/faq.json" ;
     
 import {
   Card ,CardTitle ,CardHeader,CardContent,
-} from "@/components/ui/Card";
+} from "@/components/ui/card";
 import {
   Carousel,
   CarouselContent,
