@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # My Project
 
-This project is deployed live at: [Vercel Live Site]((https://job-profile-git-main-mahesh-lahotis-projects.vercel.app/)p)
+This project is deployed live at: [Vercel Live Site]((https://job-profile-phi.vercel.app/))
